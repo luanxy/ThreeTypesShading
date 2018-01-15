@@ -1,0 +1,27 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (lab1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Create.cpp
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\model.h(440): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\model.h(465): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\model.h(467): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\model.h(469): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\model.h(479): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\model.h(495): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\model.h(579): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\model.h(582): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\model.h(550): warning C4101: “r1”: 未引用的局部变量
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\model.h(550): warning C4101: “g1”: 未引用的局部变量
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\model.h(550): warning C4101: “b1”: 未引用的局部变量
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\model.h(616): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\model.h(620): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\model.h(623): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\model.h(626): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\model.h(670): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\model.h(673): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\model.h(677): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\vec3.h(183): warning C4172: 返回局部变量或临时变量的地址
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\vec3.h(199): warning C4172: 返回局部变量或临时变量的地址: tempVerts
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\vec3.h(217): warning C4172: 返回局部变量或临时变量的地址: tempVerts
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\vec3.h(227): warning C4172: 返回局部变量或临时变量的地址: tempVerts
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab1\lab1\vec3.h(237): warning C4172: 返回局部变量或临时变量的地址: tempVerts
+  lab1.vcxproj -> C:\Users\vsgin\OneDrive\Documents\Visual Studio 2015\Projects\Lab1\Debug\lab.exe
+  lab1.vcxproj -> C:\Users\vsgin\OneDrive\Documents\Visual Studio 2015\Projects\Lab1\Debug\lab.pdb (Full PDB)
